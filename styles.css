@@ -356,7 +356,7 @@ h2.title{
   
   .img{
         
-     width: 500px; /* A imagem nunca ficará maior do que 100% da largura do seu contêiner */
+     width: 475px; /* A imagem nunca ficará maior do que 100% da largura do seu contêiner */
      height: auto; /* A altura se ajusta automaticamente para manter a proporção */
      
      border-radius: 10%;
