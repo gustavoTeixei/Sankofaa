@@ -128,7 +128,7 @@ h2.title{
     border-radius: 40px;
     position: relative;
     background-color: #1313130e;
-    padding: 2em;
+    padding: 2.5em;
     
 
   }
@@ -356,10 +356,14 @@ h2.title{
   
   .img{
         
+<<<<<<< HEAD
      width: 475px; /* A imagem nunca ficará maior do que 100% da largura do seu contêiner */
+=======
+     width: 400px; /* A imagem nunca ficará maior do que 100% da largura do seu contêiner */
+>>>>>>> a87e66133726f558c5322af5c6530626b0ed22cb
      height: auto; /* A altura se ajusta automaticamente para manter a proporção */
      
-     border-radius: 10%;
+     border-radius: 20%;
   }
 
   footer {
